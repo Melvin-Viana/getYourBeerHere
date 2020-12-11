@@ -1,0 +1,29 @@
+{
+  "name": "getYourBeerHere",
+  "version": "1.0.0",
+  "description": "Find the nearest beer place according to your Geolocation w/ your IP address or by search query.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melvin-Viana/getYourBeerHere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melvin-Viana/getYourBeerHere/issues"
+  },
+  "homepage": "https://github.com/Melvin-Viana/getYourBeerHere#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "mongoose": "^5.11.7",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "prettier": "^2.2.1"
+  }
+}
